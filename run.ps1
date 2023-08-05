@@ -1,2 +1,4 @@
 $env:FLASK_APP = "app.py"
 flask run --port=5001
+
+# .\run.ps1
